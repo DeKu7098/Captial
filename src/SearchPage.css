@@ -1,0 +1,18 @@
+.search {
+    display: flex;
+    color: aliceblue;
+    border-radius: 10px;
+	box-shadow: 5px 20px 50px #000;
+    width: 60%;
+	justify-content: center;
+	display: flex;
+	margin: 1px auto;
+	padding: 10px;
+	border: none;
+	outline: none;
+	border-radius: 5px;
+}
+
+.h4{
+    color: aliceblue;
+}
